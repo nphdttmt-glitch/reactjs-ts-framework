@@ -2,10 +2,14 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  background-color: #474647;
 }
 
 .navbar {
-  background: #007bff;
+  background: #147ae0;
   padding: 10px;
   display: flex;
   gap: 15px;
